@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="forget_password">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">Password</string>
+    <string name="userName">User name</string>
+    <string name="Continue_with">Continue with google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="Name">Name</string>
+    <string name="data_of_birth">Date of birth</string>
+    <string name="Mobile">Mobile</string>
+    <string name="Email">Email</string>
+    <string name="confirm_pas">Confirm password</string>
+    <string name="referral_code">Refferal code (if any)</string>
+    <string name="next">Next</string>
+    <string name="sign_out">Sign out</string>
+</resources>
